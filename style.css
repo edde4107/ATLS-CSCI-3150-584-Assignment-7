@@ -1,0 +1,38 @@
+h1, h2 {
+  color: green;
+}
+
+p {
+  color: gray;
+}
+
+ul {
+  border: 5px solid greenyellow;
+}
+
+ol {
+  border: 7px solid gold;
+}
+
+ol, ul {
+  padding: 5px 20px;
+  border-radius: 4px;
+}
+
+h1, strong {
+  color: rgb(3, 56, 16);
+}
+
+em {
+  color: gray;
+}
+
+dl {
+  padding: 10px;
+  margin: 20px;
+}
+
+dd {
+  margin: 5px 0px 5px 15px;
+  color: rgb(66, 64, 64);
+}
